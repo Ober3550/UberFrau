@@ -57,10 +57,6 @@
       "enabled": true
     },
     {
-      "name": "Bio_Industries",
-      "enabled": true
-    },
-    {
       "name": "bobassembly",
       "enabled": true
     },
@@ -222,6 +218,10 @@
     },
     {
       "name": "Squeak Through",
+      "enabled": true
+    },
+    {
+      "name": "stacking-addon",
       "enabled": true
     },
     {
